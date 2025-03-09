@@ -3,7 +3,7 @@
 
 A brief description of what this project does and who it's for
 
-Here's a README for **Weather One**:  
+   
 
 ---
 
